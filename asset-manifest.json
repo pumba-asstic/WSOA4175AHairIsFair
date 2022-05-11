@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/pumba-asstic/WSOA4175AHairIsFair/static/css/main.96074c82.css",
-    "main.js": "/pumba-asstic/WSOA4175AHairIsFair/static/js/main.87bee06e.js",
+    "main.js": "/pumba-asstic/WSOA4175AHairIsFair/static/js/main.de888995.js",
     "static/js/787.be35e6cb.chunk.js": "/pumba-asstic/WSOA4175AHairIsFair/static/js/787.be35e6cb.chunk.js",
     "static/media/types of hair 2.png": "/pumba-asstic/WSOA4175AHairIsFair/static/media/types of hair 2.5c0d508b67bde4f32f5f.png",
     "static/media/desingJustice Img .png": "/pumba-asstic/WSOA4175AHairIsFair/static/media/desingJustice Img .7bd579cbc9df34c05b61.png",
@@ -20,11 +20,11 @@
     "static/media/Blogpost2.png": "/pumba-asstic/WSOA4175AHairIsFair/static/media/Blogpost2.28843141904efc40a816.png",
     "index.html": "/pumba-asstic/WSOA4175AHairIsFair/index.html",
     "main.96074c82.css.map": "/pumba-asstic/WSOA4175AHairIsFair/static/css/main.96074c82.css.map",
-    "main.87bee06e.js.map": "/pumba-asstic/WSOA4175AHairIsFair/static/js/main.87bee06e.js.map",
+    "main.de888995.js.map": "/pumba-asstic/WSOA4175AHairIsFair/static/js/main.de888995.js.map",
     "787.be35e6cb.chunk.js.map": "/pumba-asstic/WSOA4175AHairIsFair/static/js/787.be35e6cb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.96074c82.css",
-    "static/js/main.87bee06e.js"
+    "static/js/main.de888995.js"
   ]
 }
