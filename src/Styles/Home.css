@@ -1,0 +1,75 @@
+.Home{
+    width: 100%;
+    height: 90px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+}
+.WelcomeScreen{
+    width: auto;
+    margin: 50px, 10px, 50px ;
+}
+.WelcomeScreen h1{
+    color: #669900;
+    font-size: 100px;
+}
+.WelcomeScreen .img{
+    width: 50%;
+    height: 50px;
+    padding: 10px, 5px, 10px;
+}
+.WelcomeScreen button{
+    align-items: center;
+    color: black;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    justify-content: center;
+    background-color: #669900;
+    height: 50px;
+    width: 150px;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.WelcomeScreen p{
+    font-size: 28px;
+    color:black;
+    font-weight: bolder;
+    text-align: left;
+    padding: 10px, 5px, 10px; 
+}
+
+@media only screen and( max-width:600px){
+    .Home{
+        justify-content: center;
+        align-items: center;
+    }
+    .WelcomeScreen{
+        margin-left: 0px;
+        border-radius: 10px;
+        padding: 10px;
+        width: 50px;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        color: #6bbbae;
+        
+    }
+    .WelcomeScreen .img{
+        align-items: center;
+        
+    }
+    h1{
+        font-size: 16px;
+        height: 20px;
+        color: #669900;
+    }
+    .WelcomeScreen button{
+        background-color: #6bbbae;
+        color: black;
+        margin-bottom: 20px;
+    }
+}

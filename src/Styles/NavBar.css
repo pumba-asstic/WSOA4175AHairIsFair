@@ -1,0 +1,106 @@
+.Navbar{
+    width: 100%;
+    height: 50%;
+    background-color: #6bbbae;
+    display: flex;
+    flex-direction:row;
+}
+.Navbar .leftside{
+    flex:50%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    padding-left: 150px;
+}
+ 
+.Navbar .Leftside .img{
+     width: 10px;
+     padding-left: 150px;
+     height: 50px;
+ }
+ 
+ .Navbar .Rightside{
+     flex: 50%;
+     height: 100%;
+     display: flex;
+     align-items: center;
+     justify-content: right ;
+     font-size: large;
+ }
+ 
+ .Navbar a{
+        color: black;
+        text-decoration: none;
+        margin: 20px;
+ }
+
+ .Navbar .Rightside button{
+     background-color: transparent;
+     color: black;
+     cursor: pointer;
+     border: none;
+
+ }
+
+ .Navbar #open{
+     padding-left: 0px;
+
+ }
+ .Navbar #open img{
+     display: none;
+ }
+
+ .Navbar #close img{
+     display: inherit;
+ }
+.Navbar #open .hiddenLinks{
+    display: inherit;
+    margin-left: 30px;
+}
+.Navbar #close .hiddenLinks{
+    display: none !important;
+}
+
+.Navbar #open a{
+    width: 70px;
+    margin: 5px;
+}
+
+@media only screen and (max-width: 900px){
+    .Navbar .Rightside{
+        width: 70px;
+    }
+    .Navbar .Leftside{
+        padding-left: 50px;
+    }
+}
+
+@media only screen and (max-width: 600px){
+    .Navbar{
+        background-color: #6bbbae;
+        width: 150%;
+        padding-right: 5px;
+    }
+    .Navbar .Rightside a{
+        display:none;
+    }
+    .Navbar .Rightside{
+        justify-content: flex-end;
+        background-color: #6bbbae;
+        padding-right: 50px;
+    }
+    .Navbar  .Rightside button{
+        display: inherit;
+        background-color: #6bbbae;
+    }
+}
+
+@media only screen and  (min-width: 600px ){
+    .Navbar .Rightside button{
+    display: none;
+    }
+    .hiddenLinks{
+        display: none;
+    }
+
+}

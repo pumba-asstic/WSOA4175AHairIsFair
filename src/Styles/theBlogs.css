@@ -1,0 +1,48 @@
+.blogContent{
+
+}
+.blogContent h1{
+    color: black;
+    font-size: 35px;
+    text-decoration: double;
+}
+p{
+    font-weight: lighter;
+    font-size: 15px;
+    text-align: left;
+}
+.blogContent .Img2{
+    width: 500px;
+    height: 350px;
+    padding-left: 20px;
+    padding-right: 20px;
+    
+}
+.blogContent h2{
+    color: black;
+    font-size: 25px;
+    text-decoration: underline;
+    font-weight: bold;
+}
+.blogContent .ReferenceList{
+    text-align: left;
+}
+.blogContent .Img3{
+    width: 750px;
+    height: 450px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.blogContent .NextButton{
+    align-items: center;
+    color:black;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    justify-content: center;
+    background-color: #669900;
+    height: 50px;
+    width: 50px;
+    text-decoration: none;
+    font-weight: bold
+}

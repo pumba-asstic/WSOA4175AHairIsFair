@@ -1,0 +1,21 @@
+.Wires {
+justify-content: center;
+align-items: center;
+}
+.Wires h1{
+    color: #669900;
+    font-size: 60px;
+}
+.Wires .WireframeContainer .Img3{
+    width: 850px;
+    height: 600px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 35px;
+    
+}
+.Wires p{
+        font-weight: bold;
+        font-size: 25px;
+        text-align: center;
+}
