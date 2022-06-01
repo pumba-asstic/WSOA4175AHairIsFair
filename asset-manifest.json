@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/WSOA4175AHairIsFair/static/css/main.dfd04664.css",
-    "main.js": "/WSOA4175AHairIsFair/static/js/main.12bdf685.js",
+    "main.js": "/WSOA4175AHairIsFair/static/js/main.694f2d28.js",
     "static/js/787.be35e6cb.chunk.js": "/WSOA4175AHairIsFair/static/js/787.be35e6cb.chunk.js",
     "static/media/NetartPrep.png": "/WSOA4175AHairIsFair/static/media/NetartPrep.082e756aebb29440fc86.png",
     "static/media/types of hair 2.png": "/WSOA4175AHairIsFair/static/media/types of hair 2.5c0d508b67bde4f32f5f.png",
@@ -34,11 +34,11 @@
     "static/media/slick.woff": "/WSOA4175AHairIsFair/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/WSOA4175AHairIsFair/index.html",
     "main.dfd04664.css.map": "/WSOA4175AHairIsFair/static/css/main.dfd04664.css.map",
-    "main.12bdf685.js.map": "/WSOA4175AHairIsFair/static/js/main.12bdf685.js.map",
+    "main.694f2d28.js.map": "/WSOA4175AHairIsFair/static/js/main.694f2d28.js.map",
     "787.be35e6cb.chunk.js.map": "/WSOA4175AHairIsFair/static/js/787.be35e6cb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dfd04664.css",
-    "static/js/main.12bdf685.js"
+    "static/js/main.694f2d28.js"
   ]
 }
