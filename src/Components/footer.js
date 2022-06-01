@@ -4,7 +4,7 @@ import InstagramIcon from '@mui/icons-material/Instagram';
 import TwitterIcon from '@mui/icons-material/Twitter';
 import FacebookIcon from '@mui/icons-material/Facebook';
 import { Link } from 'react-router-dom';
-
+import "../Pages/contact";
 
 export default class footer extends Component {
   render() {

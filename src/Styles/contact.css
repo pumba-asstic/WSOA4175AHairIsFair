@@ -1,9 +1,18 @@
-.Contact p{
+body{
+    text-align: center;
+    width: 100%;
+    height: auto;
+    display:flex;
+    flex-direction: column;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #6bbbae;
+}
+.ContactList p{
     font-size: 15px;
     font-weight: lighter;
     text-align: center;
 }
-.Contact h1{
+.ContactList h1{
     font-size: 20px;
     font-weight: lighter;
     text-align: center;

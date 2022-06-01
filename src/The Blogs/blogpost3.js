@@ -78,7 +78,7 @@ export default class blogpost3 extends Component {
           <ol className="ReferenceList">
             <li>Costanza-Chock, S., 2020. <i>Design justice : Community-led practices to build the worlds we need.</i> The MIT Press</li>
           </ol>
-          <Link to="/reflection" ><button className="NextButton">Next</button></Link>
+          <Link to="/PrepWorkNetArt" ><button className="NextButton">Next</button></Link>
       </div>
     )
   }
