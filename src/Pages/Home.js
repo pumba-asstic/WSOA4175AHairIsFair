@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import '../Styles/Home.css';
-import HomeImage from '../Assets/types of hair.jpg';
+import HomeImage from '../Assets/afroComb2.jpg';
 import SecondHomeImage from "../Assets/types of hair 2.png"; 
 import {Link} from 'react-router-dom';
 

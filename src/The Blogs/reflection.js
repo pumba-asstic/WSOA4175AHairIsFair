@@ -48,7 +48,7 @@ export default class reflection extends Component {
           I would like to spend more time on the research and finding things of interest to put on the site that also have some 
           form of link to the scholar readings and content that Hanli gives us form her own independent research.
           </p>
-          <Link to="../Blogs" ><button className="NextButton">Blogs</button></Link>
+          <Link to="/assignment1Reflection" ><button className="NextButton">Next</button></Link>
       </div>
     )
   }

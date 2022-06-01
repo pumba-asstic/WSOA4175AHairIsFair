@@ -12,7 +12,7 @@ export default class DesignAesth extends Component {
       <div className="Wires">
         <h1>Welcome to the Design and Aesthetics choices</h1>
         <p>
-          The following images are images of the annotated wirframes and colour/ style guide. 
+          The following images are images of the annotated wire frames and colour/ style guide. 
           I based my site off the colours in the guide, cause of what the colours mean and what the represent in regard to the content and context of the site. 
           The colour scheme might be a little off, in terms of the colour way but most of these colours we tend to see them in natural hair sites or hair product containers.
         </p>

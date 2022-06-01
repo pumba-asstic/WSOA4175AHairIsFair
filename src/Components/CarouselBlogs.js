@@ -47,16 +47,16 @@ export class Carousel extends Component{
                         <Link to="/blogpost3"><img className='img' src={img3}/></Link>
                     </div>
                     <div className='wdt'>
-                        <Link to="/relection"><img className='img' src={img4}/></Link>
+                        <Link to="/reflection"><img className='img' src={img4}/></Link>
                     </div>
                     <div className='wdt'>
                         <Link to="/PrepWorkNetArt"><img className='img' src={img5}/></Link>
                     </div>
                     <div className='wdt'>
-                        <Link to="/assignment1Reflection"><img className='img' src={img6}/></Link>
+                        <Link to="/Ass1Reflect"><img className='img' src={img6}/></Link>
                     </div>
                     <div className='wdt'>
-                        <Link to="/assignment2Reflection"><img className='img' src={img7}/></Link>
+                        <Link to="/Ass2Reflect"><img className='img' src={img7}/></Link>
                     </div>
             </Slider>
         </>

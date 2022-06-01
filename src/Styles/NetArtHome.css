@@ -1,0 +1,94 @@
+
+.aboutHair h1{
+    color: #669900;
+    font-size: 60px;
+}
+.aboutHair h2{
+    color: #669900;
+    font-size: 20px;
+}
+.gridImages{
+    width: 150px;
+    height: 150px;
+}
+.ImagesBlocks{
+    width: 275px;
+    height: 415px;
+}
+.aboutHair button{
+    align-items: center;
+    color: black;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    justify-content: center;
+    background-color: #669900;
+    height: 50px;
+    width: 150px;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.main-content{
+    padding: 5%;
+    flex: 1 1 100%;
+    min-height: 100vh;
+    align-items: center;
+    
+    
+}
+.portfolio{
+    display: grid;
+    height: 100%;
+    grid-template-rows: repeat(8, 125px);
+    grid-template-columns: repeat(5, 125px);
+    grid-gap: 2px;
+    justify-content: center;
+}
+
+.portfolio-item{
+    background:white;
+    color:black;
+    font-weight: bold;
+    display: flex;
+    /* justify-content: center; */
+    align-items: center; 
+    font-size: 1.5em;
+    background-size: cover;
+    background-position: top left; 
+    transition: all ease-in 300ms;
+    position: relative;
+    z-index: 20;
+
+}
+
+.portfolio-item.medium{
+    grid-row: span 2;
+    grid-column: span 2;
+}
+.portfolio-item.large{
+    grid-row: span 3;
+    grid-column: span 3;
+}
+.portfolio-item.small{
+grid-row: span 1;
+grid-column: span 1;
+}
+.portfolio-item.tall{
+    grid-row: span 3;
+    grid-column: span 2;
+}
+.portfolio-item.wide{
+    grid-row: span 2;
+    grid-column: span 3;
+}
+
+
+
+
+@media only screen and( max-width:600px){
+        .portfolio-item{
+        justify-content: center;
+        align-items: center;
+        }
+    }        

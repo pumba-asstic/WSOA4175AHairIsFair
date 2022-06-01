@@ -15,8 +15,9 @@ import Blogpost2 from './The Blogs/blogpost2';
 import Blogpost3 from './The Blogs/blogpost3';
 import reflection from './The Blogs/reflection';
 import PrepWorkNetArt from './The Blogs/PrepWorkNetArt';
-import assignment1Reflection from './The Blogs/assignment1Reflection';
-import assignment2Reflection from './The Blogs/assignment2Reflection';
+import Ass1Reflect from './The Blogs/Ass1Reflect';
+import Ass2Reflect from './The Blogs/Ass2Reflect';
+
 
 // routes to different net art pieces. 
 import NetartPiece2 from './NetArtPieces/NetartPiece2';
@@ -40,8 +41,8 @@ function App(){
       <Route exact path='/blogpost3' component={Blogpost3}></Route>
       <Route exact path='/reflection' component={reflection}></Route>
       <Route exact path='/PrepWorkNetArt' component={PrepWorkNetArt}></Route>
-      <Route exact path= '/assigment1Reflection' component={assignment1Reflection}></Route>
-      <Route extat path='/assignment2Reflection' component={assignment2Reflection}></Route>
+      <Route exact path= '/Ass1Reflect' component={Ass1Reflect}></Route>
+      <Route exact path='/Ass2Reflect' component={Ass2Reflect}></Route>
       
       <Route exact path ='/NetartPiece2' component={NetartPiece2}></Route>
       <Route exact path ='/Piece3' component={Piece3}></Route>
