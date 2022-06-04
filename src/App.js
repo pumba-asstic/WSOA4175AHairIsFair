@@ -16,12 +16,11 @@ import Blogpost3 from './The Blogs/blogpost3';
 import reflection from './The Blogs/reflection';
 import PrepWorkNetArt from './The Blogs/PrepWorkNetArt';
 import Ass1Reflect from './The Blogs/Ass1Reflect';
-import Ass2Reflect from './The Blogs/Ass2Reflect';
+
 
 
 // routes to different net art pieces. 
-import NetartPiece2 from './NetArtPieces/NetartPiece2';
-import Piece3 from './NetArtPieces/Piece3';
+import Piece2 from "./Artworks/MosaicPiece";
 
 
 function App(){
@@ -42,10 +41,9 @@ function App(){
       <Route exact path='/reflection' component={reflection}></Route>
       <Route exact path='/PrepWorkNetArt' component={PrepWorkNetArt}></Route>
       <Route exact path= '/Ass1Reflect' component={Ass1Reflect}></Route>
-      <Route exact path='/Ass2Reflect' component={Ass2Reflect}></Route>
       
-      <Route exact path ='/NetartPiece2' component={NetartPiece2}></Route>
-      <Route exact path ='/Piece3' component={Piece3}></Route>
+      
+      
       </Switch>
     
      <Footer/>

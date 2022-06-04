@@ -13,8 +13,26 @@
 }
 .ImagesBlocks{
     width: 275px;
-    height: 415px;
+    height: 410px;
 }
+.Images{
+    width: 150px;
+    height: 150px;
+}
+.Image{
+    width: 250px;
+    height: 200px;
+}
+.picture{
+    width: 275px;
+    height: 200px;
+}
+
+.pictures{
+    width: 375px;
+    height: 200px;
+}
+
 .aboutHair button{
     align-items: center;
     color: black;
@@ -40,8 +58,8 @@
 .portfolio{
     display: grid;
     height: 100%;
-    grid-template-rows: repeat(8, 125px);
-    grid-template-columns: repeat(5, 125px);
+    grid-template-rows: repeat(8, 135px);
+    grid-template-columns: repeat(5, 135px);
     grid-gap: 2px;
     justify-content: center;
 }
