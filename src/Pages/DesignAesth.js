@@ -5,6 +5,8 @@ import blogWireImg from "../Assets/Blogs_landing_pages.png";
 import contactWireImg from "../Assets/contact_page_wireframe.png";
 import homewireImg from "../Assets/landingpage_Wireframe..png";
 import guideImg from "../Assets/colourGuide.png";
+import WireFrameArtPiece1 from "../Assets/ArtPiece_1.png";
+import WireFrameArtPiece2 from "../Assets/ArtPiece_2.png";
 
 export default class DesignAesth extends Component {
   render() {
@@ -18,7 +20,12 @@ export default class DesignAesth extends Component {
         </p>
         <p>
           These coloure represent growth, new beginings and reason why I chose these colour is because the site is all about hair,
-          hair that breaks, "The Big Chop" methods and what type of hair products to use when dealing with different hair textures.
+          hair that breaks, "The Big Chop" methods and what type of hair products to use when dealing with different hair textures.</p>
+          
+         <p> The font I choose is the new times roman font, I had 3 option and that font stood out the most and because it was mostly used in the websites that i have researched
+          It is popular for making things look professional and that is the feel I was going for in terms of the font, since the colour way gives a snese of growth and clamness
+          I then decided that I wanted it to also have a professional feel to it " professional hair salon feel". Everyone wants to get their hair done by professionals but if they cannot afford it 
+          they can get the tips and tricks from my site. 
         </p>
         <div className="WireframeContainer">
           <img className="Img3" src={homewireImg}/>
@@ -26,6 +33,8 @@ export default class DesignAesth extends Component {
           <img className="Img3" src={blogWireImg}/>
           <img className="Img3" src={contactWireImg}/>
           <img className="Img3" src={guideImg}/>
+          <img className="Img3" src={WireFrameArtPiece1}/>
+          <img className ="Img3" src={WireFrameArtPiece2}/>
         </div>
 
 

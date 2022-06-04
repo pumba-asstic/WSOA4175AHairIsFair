@@ -55,9 +55,7 @@ export class Carousel extends Component{
                     <div className='wdt'>
                         <Link to="/Ass1Reflect"><img className='img' src={img6}/></Link>
                     </div>
-                    <div className='wdt'>
-                        <Link to="/Ass2Reflect"><img className='img' src={img7}/></Link>
-                    </div>
+                   
             </Slider>
         </>
         );

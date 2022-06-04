@@ -7,7 +7,7 @@ align-items: center;
     font-size: 60px;
 }
 .Wires .WireframeContainer .Img3{
-    width: 850px;
+    width: 700px;
     height: 600px;
     padding-left: 20px;
     padding-right: 20px;
@@ -17,5 +17,7 @@ align-items: center;
 .Wires p{
         font-weight: bold;
         font-size: 25px;
-        text-align: center;
+        text-align: justify;
+        margin-left: 90px;
+        margin-right: 90px;
 }
