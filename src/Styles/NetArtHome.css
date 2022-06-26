@@ -100,7 +100,15 @@ grid-column: span 1;
     grid-row: span 2;
     grid-column: span 3;
 }
-
+ #circle {
+     float:none;
+     width: 240px;
+     height: 240px;
+     /* margin: 240px; */
+     shape-outside: circle();
+     clip-path: circle();
+     background: white;
+ }
 
 
 

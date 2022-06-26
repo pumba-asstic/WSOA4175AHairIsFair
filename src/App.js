@@ -21,6 +21,7 @@ import Ass1Reflect from './The Blogs/Ass1Reflect';
 
 // routes to different net art pieces. 
 import Piece2 from "./Artworks/MosaicPiece";
+import theface from "./Pages/theface";
 
 
 function App(){
@@ -42,7 +43,7 @@ function App(){
       <Route exact path='/PrepWorkNetArt' component={PrepWorkNetArt}></Route>
       <Route exact path= '/Ass1Reflect' component={Ass1Reflect}></Route>
       
-      
+      <Route exact path='/theFace' component={theface}></Route>
       
       </Switch>
     

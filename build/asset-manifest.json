@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/WSOA4175AHairIsFair/static/css/main.e3456d03.css",
-    "main.js": "/WSOA4175AHairIsFair/static/js/main.b765b9bc.js",
+    "main.css": "/WSOA4175AHairIsFair/static/css/main.6e9486cb.css",
+    "main.js": "/WSOA4175AHairIsFair/static/js/main.82378d5b.js",
     "static/js/787.be35e6cb.chunk.js": "/WSOA4175AHairIsFair/static/js/787.be35e6cb.chunk.js",
     "static/media/NetartPrep.png": "/WSOA4175AHairIsFair/static/media/NetartPrep.082e756aebb29440fc86.png",
     "static/media/types of hair 2.png": "/WSOA4175AHairIsFair/static/media/types of hair 2.5c0d508b67bde4f32f5f.png",
@@ -12,8 +12,11 @@
     "static/media/mosiac test 1.jpg": "/WSOA4175AHairIsFair/static/media/mosiac test 1.0739a2c3aed88a26d35d.jpg",
     "static/media/benandBetty2.jpg": "/WSOA4175AHairIsFair/static/media/benandBetty2.3f235c915e9dc22da185.jpg",
     "static/media/landingpage_Wireframe..png": "/WSOA4175AHairIsFair/static/media/landingpage_Wireframe..0045b96b328f53381690.png",
+    "static/media/ArtPiece_2.png": "/WSOA4175AHairIsFair/static/media/ArtPiece_2.432fbf6fe2e69d2d71ca.png",
     "static/media/BlogpostWireframe.png": "/WSOA4175AHairIsFair/static/media/BlogpostWireframe.fe9d9fff2020703b66a9.png",
     "static/media/Blogpost1 .png": "/WSOA4175AHairIsFair/static/media/Blogpost1 .63ec566726842c6a1732.png",
+    "static/media/ArtPiece_1.png": "/WSOA4175AHairIsFair/static/media/ArtPiece_1.55d00ff122c7debcebca.png",
+    "static/media/flowerCrown.jpg": "/WSOA4175AHairIsFair/static/media/flowerCrown.dd274d6efe347031474c.jpg",
     "static/media/Blogs_landing_pages.png": "/WSOA4175AHairIsFair/static/media/Blogs_landing_pages.af7068905ddfa5485153.png",
     "static/media/colourGuide.png": "/WSOA4175AHairIsFair/static/media/colourGuide.301e83515b37b27465d5.png",
     "static/media/anarchicStructure.png": "/WSOA4175AHairIsFair/static/media/anarchicStructure.b2dd7b5aca9eb78ec610.png",
@@ -21,6 +24,7 @@
     "static/media/afro1.jpg": "/WSOA4175AHairIsFair/static/media/afro1.e0d3ae64a6ffd29a11b3.jpg",
     "static/media/site Image2.jpg": "/WSOA4175AHairIsFair/static/media/site Image2.e7b2b4e487c707998351.jpg",
     "static/media/siteImage.jpg": "/WSOA4175AHairIsFair/static/media/siteImage.133712b4b8a239f3287b.jpg",
+    "static/media/Hair Jewellery.png": "/WSOA4175AHairIsFair/static/media/Hair Jewellery.f2a79b9bc27dd6a586ff.png",
     "static/media/stylingDredz2.jpg": "/WSOA4175AHairIsFair/static/media/stylingDredz2.643de8fcae40aab9753b.jpg",
     "static/media/siteImage4.jpg": "/WSOA4175AHairIsFair/static/media/siteImage4.334355772119340272f1.jpg",
     "static/media/contact_page_wireframe.png": "/WSOA4175AHairIsFair/static/media/contact_page_wireframe.09ad42b7418027854ce4.png",
@@ -35,12 +39,12 @@
     "static/media/slick.ttf": "/WSOA4175AHairIsFair/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/WSOA4175AHairIsFair/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/WSOA4175AHairIsFair/index.html",
-    "main.e3456d03.css.map": "/WSOA4175AHairIsFair/static/css/main.e3456d03.css.map",
-    "main.b765b9bc.js.map": "/WSOA4175AHairIsFair/static/js/main.b765b9bc.js.map",
+    "main.6e9486cb.css.map": "/WSOA4175AHairIsFair/static/css/main.6e9486cb.css.map",
+    "main.82378d5b.js.map": "/WSOA4175AHairIsFair/static/js/main.82378d5b.js.map",
     "787.be35e6cb.chunk.js.map": "/WSOA4175AHairIsFair/static/js/787.be35e6cb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e3456d03.css",
-    "static/js/main.b765b9bc.js"
+    "static/css/main.6e9486cb.css",
+    "static/js/main.82378d5b.js"
   ]
 }
