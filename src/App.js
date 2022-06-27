@@ -1,6 +1,7 @@
 import './App.css';
 import Navbar from './Components/Navbar';
-import {Route, Switch} from 'react-router-dom'
+import {Route, Switch} from 'react-router-dom';
+
 //routes to navbar links
 import Home from './Pages/Home';
 import Blogs from './Pages/Blogs';
@@ -16,12 +17,13 @@ import Blogpost3 from './The Blogs/blogpost3';
 import reflection from './The Blogs/reflection';
 import PrepWorkNetArt from './The Blogs/PrepWorkNetArt';
 import Ass1Reflect from './The Blogs/Ass1Reflect';
+import FinalArtReflect from './The Blogs/FinalArtReflect';
 
 
 
 // routes to different net art pieces. 
-import Piece2 from "./Artworks/MosaicPiece";
 import theface from "./Pages/theface";
+
 
 
 function App(){
@@ -42,8 +44,11 @@ function App(){
       <Route exact path='/reflection' component={reflection}></Route>
       <Route exact path='/PrepWorkNetArt' component={PrepWorkNetArt}></Route>
       <Route exact path= '/Ass1Reflect' component={Ass1Reflect}></Route>
+      <Route exact path='/FinalArtReflect'component={FinalArtReflect}></Route>
+     
       
-      <Route exact path='/theFace' component={theface}></Route>
+      <Route exact path='/theFace' component={theface}></Route> 
+      
       
       </Switch>
     

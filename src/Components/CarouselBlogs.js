@@ -11,7 +11,7 @@ import img3 from "../Assets/Blogpost3.png";
 import img4 from "../Assets/siteImage.jpg";
 import img5 from "../Assets/NetartPrep.png";
 import img6 from "../Assets/logo.png";
-import img7 from "../Assets/mosiac test 1.jpg";
+import img7 from "../Assets/artpictures/Art.jpg";
 
 
 
@@ -38,24 +38,26 @@ export class Carousel extends Component{
             </div>
             <Slider {...settings}>
                     <div className='wdt'>
-                       <Link to="/blogpost1"><img className='img' src={img1}/></Link>
+                       <Link to="/blogpost1"><img className='img' src={img1}/>Blog 1</Link>
                     </div>
                     <div className='wdt'>
-                        <Link to="/blogpost2"><img className='img' src={img2}/></Link>
+                        <Link to="/blogpost2"><img className='img' src={img2}/>Blog 2</Link>
                     </div>
                     <div className='wdt'>
-                        <Link to="/blogpost3"><img className='img' src={img3}/></Link>
+                        <Link to="/blogpost3"><img className='img' src={img3}/>Blog 3</Link>
                     </div>
                     <div className='wdt'>
-                        <Link to="/reflection"><img className='img' src={img4}/></Link>
+                        <Link to="/reflection"><img className='img' src={img4}/>Reflection</Link>
                     </div>
                     <div className='wdt'>
-                        <Link to="/PrepWorkNetArt"><img className='img' src={img5}/></Link>
+                        <Link to="/PrepWorkNetArt"><img className='img' src={img5}/>Net Art</Link>
                     </div>
                     <div className='wdt'>
-                        <Link to="/Ass1Reflect"><img className='img' src={img6}/></Link>
+                        <Link to="/Ass1Reflect"><img className='img' src={img6}/>Assignment Reflection</Link>
                     </div>
-                   
+                    <div className='wdt'>
+                        <Link to="/FinalArtReflect"><img className='img' src={img7}/>Final Art Reflect</Link>
+                    </div>
             </Slider>
         </>
         );

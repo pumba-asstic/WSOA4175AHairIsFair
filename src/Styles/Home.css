@@ -37,10 +37,11 @@
 .WelcomeScreen p{
     font-size: 28px;
     color:black;
-    font-weight: bolder;
     text-align: left;
     padding: 20px, 15px, 20px; 
     justify-content: center;
+    margin-left: 150px;
+    margin-right: 150px;
 }
 
 @media only screen and( max-width:600px){

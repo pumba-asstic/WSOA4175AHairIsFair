@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/WSOA4175AHairIsFair/static/css/main.6e9486cb.css",
-    "main.js": "/WSOA4175AHairIsFair/static/js/main.82378d5b.js",
+    "main.css": "/WSOA4175AHairIsFair/static/css/main.75263f88.css",
+    "main.js": "/WSOA4175AHairIsFair/static/js/main.51a5cc92.js",
     "static/js/787.be35e6cb.chunk.js": "/WSOA4175AHairIsFair/static/js/787.be35e6cb.chunk.js",
     "static/media/NetartPrep.png": "/WSOA4175AHairIsFair/static/media/NetartPrep.082e756aebb29440fc86.png",
     "static/media/types of hair 2.png": "/WSOA4175AHairIsFair/static/media/types of hair 2.5c0d508b67bde4f32f5f.png",
@@ -16,6 +16,7 @@
     "static/media/BlogpostWireframe.png": "/WSOA4175AHairIsFair/static/media/BlogpostWireframe.fe9d9fff2020703b66a9.png",
     "static/media/Blogpost1 .png": "/WSOA4175AHairIsFair/static/media/Blogpost1 .63ec566726842c6a1732.png",
     "static/media/ArtPiece_1.png": "/WSOA4175AHairIsFair/static/media/ArtPiece_1.55d00ff122c7debcebca.png",
+    "static/media/benandBetty1.jpg": "/WSOA4175AHairIsFair/static/media/benandBetty1.8b380c58de738843b0da.jpg",
     "static/media/flowerCrown.jpg": "/WSOA4175AHairIsFair/static/media/flowerCrown.dd274d6efe347031474c.jpg",
     "static/media/Blogs_landing_pages.png": "/WSOA4175AHairIsFair/static/media/Blogs_landing_pages.af7068905ddfa5485153.png",
     "static/media/colourGuide.png": "/WSOA4175AHairIsFair/static/media/colourGuide.301e83515b37b27465d5.png",
@@ -39,12 +40,12 @@
     "static/media/slick.ttf": "/WSOA4175AHairIsFair/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/WSOA4175AHairIsFair/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/WSOA4175AHairIsFair/index.html",
-    "main.6e9486cb.css.map": "/WSOA4175AHairIsFair/static/css/main.6e9486cb.css.map",
-    "main.82378d5b.js.map": "/WSOA4175AHairIsFair/static/js/main.82378d5b.js.map",
+    "main.75263f88.css.map": "/WSOA4175AHairIsFair/static/css/main.75263f88.css.map",
+    "main.51a5cc92.js.map": "/WSOA4175AHairIsFair/static/js/main.51a5cc92.js.map",
     "787.be35e6cb.chunk.js.map": "/WSOA4175AHairIsFair/static/js/787.be35e6cb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6e9486cb.css",
-    "static/js/main.82378d5b.js"
+    "static/css/main.75263f88.css",
+    "static/js/main.51a5cc92.js"
   ]
 }

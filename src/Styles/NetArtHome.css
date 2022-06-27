@@ -7,6 +7,20 @@
     color: #669900;
     font-size: 20px;
 }
+.aboutHair p{
+    font-size: 28px;
+    color:black;
+    text-align: left;
+    padding: 20px, 15px, 20px; 
+    justify-content: center;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.aboutHair .p.Names{
+    margin-left:150px;
+    margin-right: 150px;
+    text-align: center;
+}
 .gridImages{
     width: 150px;
     height: 150px;
@@ -20,8 +34,13 @@
     height: 150px;
 }
 .Image{
-    width: 250px;
+    width: 150px;
     height: 200px;
+}
+.WideImages{
+    width: 450px;
+    height: 350px;
+    
 }
 .picture{
     width: 275px;
@@ -100,15 +119,7 @@ grid-column: span 1;
     grid-row: span 2;
     grid-column: span 3;
 }
- #circle {
-     float:none;
-     width: 240px;
-     height: 240px;
-     /* margin: 240px; */
-     shape-outside: circle();
-     clip-path: circle();
-     background: white;
- }
+ 
 
 
 
