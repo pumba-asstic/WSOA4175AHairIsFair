@@ -2,17 +2,7 @@ import React, { Component } from 'react'
 import "../Styles/NetArtHome.css";
 import { Link } from 'react-router-dom';
 
-import img1 from "../Assets/stylingDredz2.jpg";
-import img2 from "../Assets/benandBetty2.jpg";
-import img3 from "../Assets/braids1.png";
-import img4 from "../Assets/afro1.jpg";
-import img5 from "../Assets/afro5.jpg";
-import img6 from "../Assets/afro2.jpg";
-import img7 from "../Assets/siteImage4.jpg";
-import img8 from "../Assets/types of hair 2.png";
-import img9 from "../Assets/site Image2.jpg";
-import img10 from "../Assets/hair-patterns-curly-wavy-hair.jpg";
-import img11 from "../Assets/benandBetty1.jpg";
+
 
 
 
@@ -51,7 +41,8 @@ export default class NetArtHair extends Component {
                    
                 </div>
             </div>
-          <Link to="./theface"><button>Next</button></Link>
+          <Link to="./theface"><button>Next Art</button></Link>
+          <Link to ="./face2"><button>Next Art</button></Link>
       </div>
     )
   }
